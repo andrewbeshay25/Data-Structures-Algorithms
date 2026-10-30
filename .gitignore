@@ -1,0 +1,12 @@
+.vscode/tasks.json
+.DS_Store
+
+*
+!*/
+!*.c
+!*.cpp
+!*.h
+!*.py
+!*.go
+!README.md
+!.gitignore
